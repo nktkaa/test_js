@@ -1,3 +1,3 @@
-function testFunc(p2) {
-    return p1 * p2;     
+function testFunc() {
+    throw 'this is an uncaught error';    
 }
